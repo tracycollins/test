@@ -1,3 +1,9 @@
+/*
+
+This was the code challenge for Jake Quain of Parachute Health
+
+*/
+
 const fs = require("fs").promises;
 
 const boroughTweetsHash = {}
